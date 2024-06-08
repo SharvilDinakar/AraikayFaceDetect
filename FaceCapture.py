@@ -27,7 +27,11 @@ last_face_time = None
 while True:
     # Capture a frame
     frame = picam2.capture_array()
-    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+
+    # Convert the frame to color (BGR)
+    color_frame = cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)
+
+    gray = cv2.cvtColor(color_frame, cv2.COLOR_BGR2GRAY)
     gray = cv2.GaussianBlur(gray, (21, 21), 0)
 
     if first_frame is None:
@@ -47,7 +51,7 @@ while True:
         # Capture the entire frame if a face is detected and no face was previously detected
         if not face_detected:
             timestamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
-            capture_image(frame, timestamp)  # Capture the entire frame
+            capture_image(color_frame, timestamp)  # Capture the entire frame
             last_face_time = datetime.datetime.now()
             face_detected = True
 
@@ -58,7 +62,7 @@ while True:
             face_detected = False
 
     # Display the frame
-    cv2.imshow("Face Detector", frame)
+    cv2.imshow("Face Detector", color_frame)
 
     # Break the loop if 'q' is pressed
     if cv2.waitKey(1) & 0xFF == ord('q'):
