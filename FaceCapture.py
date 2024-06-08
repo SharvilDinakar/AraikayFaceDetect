@@ -13,11 +13,11 @@ picam2.start()
 cascade_classifier = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
 def capture_image(frame, timestamp):
-    parentID=1
+    parentID = 1
     folder_path = "Image_Bucket"
     filename = f"{folder_path}/{parentID}-face_detect{timestamp}.jpg"
     cv2.imwrite(filename, frame)
-    print(f"Face captured: {filename}")
+    print(f"Image captured: {filename}")
 
 # Capture the first frame for background
 first_frame = None
@@ -47,10 +47,10 @@ while True:
         # Draw a rectangle around the face
         cv2.rectangle(frame, (x, y), (x+w, y+h), (0, 255, 0), 2)
         
-        # Capture image if face is detected and no face was previously detected
+        # Capture the entire frame if a face is detected and no face was previously detected
         if not face_detected:
             timestamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
-            capture_image(frame[y:y+h, x:x+w], timestamp)  # Capture only the face region
+            capture_image(frame, timestamp)  # Capture the entire frame
             last_face_time = datetime.datetime.now()
             face_detected = True
 
@@ -70,4 +70,3 @@ while True:
 # Release resources
 picam2.stop()
 cv2.destroyAllWindows()
-
