@@ -44,9 +44,6 @@ while True:
 
     # Loop through detected faces
     for (x, y, w, h) in faces:
-        # Draw a rectangle around the face
-        cv2.rectangle(frame, (x, y), (x+w, y+h), (0, 255, 0), 2)
-        
         # Capture the entire frame if a face is detected and no face was previously detected
         if not face_detected:
             timestamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
