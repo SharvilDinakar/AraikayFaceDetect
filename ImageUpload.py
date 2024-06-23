@@ -9,7 +9,7 @@ connection_string = "DefaultEndpointsProtocol=https;AccountName=imagebucket;Acco
 container_name = "visitors"
 
 # Local folder path (replace with your folder path)
-local_folder_path = "/Users/sharvildinakar/Downloads/face/"
+local_folder_path = "/home/admin/image_detection/Image_Bucket"
 
 def upload_images_to_blob(connection_string, container_name, local_folder_path):
     """
