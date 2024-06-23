@@ -13,7 +13,7 @@ picam2.start()
 cascade_classifier = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
 def capture_image(frame, timestamp):
-    parentID = 1
+    parentID = 395
     folder_path = "Image_Bucket"
     filename = f"{folder_path}/{parentID}-face_detect{timestamp}.jpg"
     cv2.imwrite(filename, frame)
