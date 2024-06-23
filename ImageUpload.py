@@ -3,12 +3,13 @@ from azure.storage.blob import BlobServiceClient
 from azure.core.exceptions import ResourceExistsError
 
 # Replace with your connection string
-connection_string = "DefaultEndpointsProtocol=https;AccountName=imagebucket;AccountKey=VVBACkgQEaAtNMaHaDIwPl6cEpvVxmCNo1ZQmWh+kJav1E8U1Dtidq5ENY9zVTyX/IVNGA379LH1+ASttXix4g==;EndpointSuffix=core.windows.net"
+connection_string = "DefaultEndpointsProtocol=https;AccountName=visitorimagebucket;AccountKey=pNX6OAvEJkQqDqiH72ZxGxcSFF6hApio4mQUj5ejUj0Rl1CaZzJ+VnoXIfVyDYQ7cXF0hwZ/U74c+ASttbGfJA==;EndpointSuffix=core.windows.net"
 
 # Container name (change if needed)
 container_name = "visitors"
 
 # Local folder path (replace with your folder path)
+
 local_folder_path = "/home/admin/image_detection/Image_Bucket"
 
 def upload_images_to_blob(connection_string, container_name, local_folder_path):

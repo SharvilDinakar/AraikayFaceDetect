@@ -8,13 +8,23 @@ from azure.storage.blob import BlobServiceClient
 
 # Replace with your values
 prediction_key = "9a7da1a1a9844330bbb8ae556d5c3061"
-endpoint = "https://araikayfacerecognition-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/12a7f579-dbce-4dd6-bfb4-b63b54bef6bc/detect/iterations/Iteration1/image"
-iteration_id = "9401c380-4817-4ea9-924f-709ac4002d70"
+
+#https://<your-resource-name>.cognitiveservices.azure.com/customvision/v3.0/Prediction/<project-id>/detect/iterations/<iteration-name>/image
+#Sharvils Endpoint
+#endpoint = "https://araikayfacerecognition-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/12a7f579-dbce-4dd6-bfb4-b63b54bef6bc/detect/iterations/Iteration1/image"
+
+#Araikay Endpoint
+endpoint = "https://araikaycustomfacerecognition-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/edbb6598-fe4b-4a9d-8a16-8bc108b54437/detect/iterations/Iteration1/image"
+
+#iteration_id = "9401c380-4817-4ea9-924f-709ac4002d70"
+#New Iteration ID
+iteration_id="b25abe24-f4d8-4964-9894-7678dbd9818e"
+
 connection_string = "DefaultEndpointsProtocol=https;AccountName=imagebucket;AccountKey=VVBACkgQEaAtNMaHaDIwPl6cEpvVxmCNo1ZQmWh+kJav1E8U1Dtidq5ENY9zVTyX/IVNGA379LH1+ASttXix4g==;EndpointSuffix=core.windows.net"
 container_name = "visitors"
 
-# Regular expression to extract timestamp and parentID from filename
-filename_pattern = re.compile(r"(\d+)/\1-face_detect(\d{8})(\d{4})")
+# Corrected regular expression to extract parentID and timestamp from filename
+filename_pattern = re.compile(r"(\d+)/\d+-face_detect(\d{8})(\d{4})")
 
 def extract_info(blob_name):
     """
