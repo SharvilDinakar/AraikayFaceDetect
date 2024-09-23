@@ -10,7 +10,7 @@ container_name = "visitors"
 
 # Local folder path (replace with your folder path)
 
-local_folder_path = "/home/admin/image_detection/Image_Bucket"
+local_folder_path = "/home/admin/image_detection/AraikayFaceDetect/Image_Bucket"
 
 def upload_images_to_blob(connection_string, container_name, local_folder_path):
     """

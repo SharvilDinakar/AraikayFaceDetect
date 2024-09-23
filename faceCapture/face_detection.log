@@ -1,0 +1,408 @@
+2024-09-23 06:50:23,688 - INFO - Logging initialized
+2024-09-23 06:50:23,912 - INFO - Initialization successful.
+2024-09-23 06:50:23,913 - INFO - Camera now open.
+2024-09-23 06:50:23,929 - INFO - Camera configuration has been adjusted!
+2024-09-23 06:50:23,938 - INFO - Configuration successful!
+2024-09-23 06:50:24,111 - INFO - Camera started
+2024-09-23 06:50:24,112 - INFO - Camera initialized successfully
+2024-09-23 06:50:25,668 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:25,829 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:26,050 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:26,290 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:26,557 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:26,787 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:27,034 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:27,272 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:27,494 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:27,733 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:27,986 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:28,241 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:28,454 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:28,695 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:28,935 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:29,204 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:29,408 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:29,624 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:29,806 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:29,998 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:30,118 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:30,251 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:30,375 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:30,495 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:30,615 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:30,735 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:30,855 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:30,977 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:31,096 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:31,217 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:31,337 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:31,455 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:31,568 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:31,675 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:31,777 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:31,873 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:31,965 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:32,056 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:32,141 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:32,227 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:32,311 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:32,392 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:32,470 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:32,609 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:32,742 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:32,868 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:32,999 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:33,129 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:33,270 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:33,349 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:33,427 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:33,507 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:33,584 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:33,665 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:33,746 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:33,828 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:33,908 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:33,992 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:34,078 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:34,166 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:34,255 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:34,345 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:34,434 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:34,521 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:34,610 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:34,698 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:34,783 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:34,868 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:34,954 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:35,037 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:35,122 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:35,207 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:35,293 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:35,378 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:35,466 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:35,552 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:35,640 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:35,724 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:35,810 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:35,894 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:35,977 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:36,060 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:36,143 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:36,225 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:36,310 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:36,393 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:36,482 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:36,568 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:36,659 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:36,745 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:36,836 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:36,929 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:37,022 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:37,118 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:37,217 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:37,315 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:37,411 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:37,505 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:37,597 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:37,689 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:37,781 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:37,868 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:37,953 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:38,039 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:38,124 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:38,208 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:38,296 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:38,384 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:38,473 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:38,559 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:38,648 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:38,737 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:38,825 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:38,916 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:39,002 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:39,090 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:39,180 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:39,266 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:39,355 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:39,442 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:39,529 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:39,617 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:39,702 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:39,787 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:39,878 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:39,962 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:40,048 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:40,136 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:40,221 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:40,307 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:40,392 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:40,476 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:40,561 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:40,645 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:40,728 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:40,813 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:40,896 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:40,979 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:41,062 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:41,146 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:41,229 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:41,312 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:41,395 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:41,479 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:41,560 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:41,643 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:41,725 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:41,808 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:41,891 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:41,972 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:42,054 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:42,135 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:42,218 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:42,300 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:42,380 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:42,460 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:42,631 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:42,793 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:42,961 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:43,114 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:43,206 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:43,296 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:43,386 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:43,475 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:43,565 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:43,655 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:43,745 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:43,834 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:43,924 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:44,013 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:44,101 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:44,189 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:44,276 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:44,362 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:44,447 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:44,603 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:44,686 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:44,841 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:44,925 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:45,013 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:45,104 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:45,203 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:45,306 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:45,417 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:45,534 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:45,655 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:45,776 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:45,896 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:46,017 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:46,137 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:46,266 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:46,410 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:46,570 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:46,743 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:46,930 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:47,152 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:47,363 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:47,603 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:47,844 - ERROR - Error during face detection: OpenCV(4.5.1) ../modules/objdetect/src/cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
+
+2024-09-23 06:50:47,857 - INFO - Exiting face detection loop
+2024-09-23 06:50:47,872 - INFO - Camera stopped
+2024-09-23 06:50:47,874 - INFO - Camera stopped successfully
