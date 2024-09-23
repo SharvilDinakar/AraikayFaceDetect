@@ -1,0 +1,30 @@
+2024-08-24 17:49:15,456 - INFO - Request URL: 'https://visitorimagebucket.blob.core.windows.net/visitors/115/115-face_detect20240720135744.jpg'
+Request method: 'PUT'
+Request headers:
+    'Content-Length': '109865'
+    'x-ms-blob-type': 'REDACTED'
+    'If-None-Match': '*'
+    'x-ms-version': 'REDACTED'
+    'Content-Type': 'application/octet-stream'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.22.0 Python/3.11.4 (Windows-10-10.0.22631-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '1433166b-6213-11ef-8342-508140f7e194'
+    'Authorization': 'REDACTED'
+A body is sent with the request
+2024-08-24 17:49:15,472 - DEBUG - Starting new HTTPS connection (1): visitorimagebucket.blob.core.windows.net:443
+2024-08-24 17:49:15,738 - DEBUG - https://visitorimagebucket.blob.core.windows.net:443 "PUT /visitors/115/115-face_detect20240720135744.jpg HTTP/11" 201 0
+2024-08-24 17:49:15,754 - INFO - Response status: 201
+Response headers:
+    'Content-Length': '0'
+    'Content-MD5': 'REDACTED'
+    'Last-Modified': 'Sat, 24 Aug 2024 12:19:15 GMT'
+    'ETag': '"0x8DCC436F87044E1"'
+    'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '9b99e848-701e-0003-261f-f67b1b000000'
+    'x-ms-client-request-id': '1433166b-6213-11ef-8342-508140f7e194'
+    'x-ms-version': 'REDACTED'
+    'x-ms-content-crc64': 'REDACTED'
+    'x-ms-request-server-encrypted': 'REDACTED'
+    'Date': 'Sat, 24 Aug 2024 12:19:15 GMT'
+2024-08-24 17:49:15,754 - ERROR - Error uploading images: name 'container_name' is not defined
