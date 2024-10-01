@@ -62,7 +62,7 @@ while True:
             face_detected = False
 
     # Display the frame
-    cv2.imshow("Face Detector", color_frame)
+    #cv2.imshow("Face Detector", color_frame)
 
     # Break the loop if 'q' is pressed
     if cv2.waitKey(1) & 0xFF == ord('q'):
